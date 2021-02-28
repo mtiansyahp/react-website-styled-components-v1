@@ -4,16 +4,16 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'Dengan ALSA',
+  headline: 'Jangkau Outletmu dimana saja',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-  buttonLabel: 'Get Started',
+    'Kami Memberikan Pengalaman terbaik secara Gratis dimanapun Anda berada dan Kapan saja.',
+  buttonLabel: 'Mulai Sekarang',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card',
+  img: require('../../images/bannere.jpg'),
+  alt: 'Banner',
   start: ''
-};
+}
 
 export const homeObjTwo = {
   primary: true,
@@ -21,10 +21,10 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  topLine: 'Kenapa Memilih Kami?',
+  headline: 'Alasan kenapa kamu harus pakai Alsa',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+    "Dengan Alsa kalian dapat mengatur outlet laundry kalian tanpa harus khawatir hambatan waktu dan tempat, cukup terkoneksi dengan internet kamu bisa memantau Oulet yang kamu punya kapan saja dan dimana saja ",
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
@@ -38,14 +38,14 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Apa itu Alsa?',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'Aplikasi Pintar dengan Segudang Fitur Keren',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
+    "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor la para nab nab",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
-  img: require('../../images/profile.jpg'),
+  img: require('../../images/bigBanner.png'),
   alt: 'Vault',
   start: 'true'
 };

@@ -43,7 +43,7 @@ function Navbar() {
           <NavbarContainer>
             <NavLogo to='/' onClick={closeMobileMenu}>
               <NavIcon />
-              ULTRA
+              ALSA
             </NavLogo>
             <MobileIcon onClick={handleClick}>
               {click ? <FaTimes /> : <FaBars />}
@@ -51,17 +51,17 @@ function Navbar() {
             <NavMenu onClick={handleClick} click={click}>
               <NavItem>
                 <NavLinks to='/' onClick={closeMobileMenu}>
-                  Home
+                  Beranda
                 </NavLinks>
               </NavItem>
               <NavItem>
                 <NavLinks to='/services' onClick={closeMobileMenu}>
-                  Services
+                  Tentang Kami
                 </NavLinks>
               </NavItem>
               <NavItem>
                 <NavLinks to='/products' onClick={closeMobileMenu}>
-                  Products
+                 Kontak Kami
                 </NavLinks>
               </NavItem>
               <NavItemBtn>
